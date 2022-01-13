@@ -1,0 +1,401 @@
+=============================================Application Started at 2021-04-15 14:39:00.1551412021-04-15 14:39:00.190117 mainFile This is the first launch.
+=============================================Application Started at 2021-04-15 14:41:38.7129312021-04-15 14:41:38.781891 mainFile This is the first launch.
+2021-04-15 14:42:01.421149 genSalt Salt created
+2021-04-15 14:42:01.532787 storeGlobal GPwd stored
+2021-04-15 14:42:02.707681 countAccounts No accounts found on startup
+2021-04-15 14:42:02.747660 countAccounts No accounts found on startup
+2021-04-15 14:42:02.824613 countAccounts No accounts found on startup
+2021-04-15 14:42:02.875584 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 05:00:12.3892652021-04-29 05:00:12.413237 mainFile Data found
+2021-04-29 05:00:13.849582 countAccounts No accounts found on startup
+2021-04-29 05:00:13.873574 countAccounts No accounts found on startup
+2021-04-29 05:00:14.022400 countAccounts No accounts found on startup
+2021-04-29 05:00:14.046398 countAccounts No accounts found on startup
+2021-04-29 05:01:53.613071 encrypt[al] Encrypt password request.
+2021-04-29 05:01:53.621087 countAccounts No accounts found on startup
+2021-04-29 05:01:53.637087 addEntry New account added: facebook
+2021-04-29 05:01:53.669087 refreshWindow Window has been refreshed.
+2021-04-29 05:01:53.885064 countAccounts Found 1 account(s) on startup
+2021-04-29 05:01:53.893064 countAccounts Found 1 account(s) on startup
+2021-04-29 05:01:53.917039 countAccounts Found 1 account(s) on startup
+2021-04-29 05:01:53.933059 countAccounts Found 1 account(s) on startup
+2021-04-29 05:01:53.941061 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:20.537283 refreshWindow Window has been refreshed.
+2021-04-29 05:02:20.730014 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:20.738016 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:20.761992 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:20.778010 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:20.793988 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:22.410112 refreshWindow Window has been refreshed.
+2021-04-29 05:02:22.586119 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:22.602121 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:22.626097 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:22.634112 countAccounts Found 1 account(s) on startup
+2021-04-29 05:02:22.642112 countAccounts Found 1 account(s) on startup
+2021-04-29 05:03:00.367273 encrypt[al] Encrypt password request.
+2021-04-29 05:03:00.383271 countAccounts Found 1 account(s) on startup
+2021-04-29 05:03:00.394583 addEntry New account added: youtube
+2021-04-29 05:03:00.418587 refreshWindow Window has been refreshed.
+2021-04-29 05:03:00.610569 countAccounts Found 2 account(s) on startup
+2021-04-29 05:03:00.626568 countAccounts Found 2 account(s) on startup
+2021-04-29 05:03:00.650870 countAccounts Found 2 account(s) on startup
+2021-04-29 05:03:00.666865 countAccounts Found 2 account(s) on startup
+2021-04-29 05:03:00.720949 countAccounts Found 2 account(s) on startup
+2021-04-29 05:03:37.196047 decrypt[al] Decrypt password request.
+2021-04-29 05:04:43.606064 deleteAccount Account deleted: 1
+2021-04-29 05:04:43.622080 refreshWindow Window has been refreshed.
+2021-04-29 05:04:43.815208 countAccounts Found 1 account(s) on startup
+2021-04-29 05:04:43.831207 countAccounts Found 1 account(s) on startup
+2021-04-29 05:04:43.855186 countAccounts Found 1 account(s) on startup
+2021-04-29 05:04:43.863181 countAccounts Found 1 account(s) on startup
+2021-04-29 05:04:43.879181 countAccounts Found 1 account(s) on startup
+=============================================Application Started at 2021-04-29 05:06:55.1774482021-04-29 05:06:55.193442 mainFile Data found
+2021-04-29 05:06:55.369426 countAccounts Found 1 account(s) on startup
+2021-04-29 05:06:55.377425 countAccounts Found 1 account(s) on startup
+2021-04-29 05:06:55.417425 countAccounts Found 1 account(s) on startup
+2021-04-29 05:06:55.433420 countAccounts Found 1 account(s) on startup
+2021-04-29 05:06:55.449425 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:10.290914 encrypt[al] Encrypt password request.
+2021-04-29 05:07:10.298911 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:10.314912 addEntry New account added: facebool
+2021-04-29 05:07:10.346887 refreshWindow Window has been refreshed.
+2021-04-29 05:07:10.538891 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:10.554891 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:10.578886 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:10.594884 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:10.602887 countAccounts Found 1 account(s) on startup
+=============================================Application Started at 2021-04-29 05:07:19.9208312021-04-29 05:07:19.936825 mainFile Data found
+2021-04-29 05:07:20.112811 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:20.128807 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:20.186304 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:20.197921 countAccounts Found 1 account(s) on startup
+2021-04-29 05:07:20.213902 countAccounts Found 1 account(s) on startup
+=============================================Application Started at 2021-04-29 05:08:03.4435772021-04-29 05:08:03.451576 mainFile Data found
+2021-04-29 05:08:03.659557 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:03.667578 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:03.707558 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:03.723551 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:03.763548 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:17.323801 encrypt[al] Encrypt password request.
+2021-04-29 05:08:17.339816 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:17.355793 addEntry New account added: youtube
+2021-04-29 05:08:17.379793 refreshWindow Window has been refreshed.
+2021-04-29 05:08:17.587776 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:17.595772 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:17.621406 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:17.637425 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:17.645425 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:21.169921 refreshWindow Window has been refreshed.
+2021-04-29 05:08:21.354814 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:21.362812 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:21.386812 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:21.402812 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:21.418788 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:22.795635 refreshWindow Window has been refreshed.
+2021-04-29 05:08:22.971620 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:22.987626 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:23.007263 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:23.023245 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:23.039238 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:24.573703 refreshWindow Window has been refreshed.
+2021-04-29 05:08:24.797681 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:24.813680 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:24.845697 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:24.869678 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:24.877679 countAccounts Found 1 account(s) on startup
+2021-04-29 05:08:36.164471 deleteAccount Account deleted: 2
+2021-04-29 05:08:36.180491 refreshWindow Window has been refreshed.
+2021-04-29 05:08:36.364452 countAccounts Found 0 account(s) on startup
+2021-04-29 05:08:36.380472 countAccounts Found 0 account(s) on startup
+2021-04-29 05:08:36.404471 countAccounts Found 0 account(s) on startup
+2021-04-29 05:08:36.420446 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-04-29 05:09:15.7991522021-04-29 05:09:15.807138 mainFile Data found
+2021-04-29 05:09:15.991119 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:16.007117 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:16.031133 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:16.047130 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:33.334702 refreshWindow Window has been refreshed.
+2021-04-29 05:09:33.560150 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:33.568150 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:33.592148 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:33.608130 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:34.558892 refreshWindow Window has been refreshed.
+2021-04-29 05:09:34.758889 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:34.774868 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:34.798886 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:34.814886 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:46.790165 encrypt[al] Encrypt password request.
+2021-04-29 05:09:46.798181 countAccounts Found 0 account(s) on startup
+2021-04-29 05:09:46.814179 addEntry New account added: facebook
+2021-04-29 05:09:46.846159 refreshWindow Window has been refreshed.
+2021-04-29 05:09:47.046134 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:47.062133 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:47.086154 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:47.102130 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:47.110152 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:50.627151 refreshWindow Window has been refreshed.
+2021-04-29 05:09:50.835153 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:50.843137 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:50.867153 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:50.883151 countAccounts Found 1 account(s) on startup
+2021-04-29 05:09:50.891132 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:00.031342 encrypt[al] Encrypt password request.
+2021-04-29 05:10:00.039341 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:00.055340 addEntry New account added: hmm
+2021-04-29 05:10:00.079337 refreshWindow Window has been refreshed.
+2021-04-29 05:10:00.295318 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:00.303340 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:00.327319 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:00.343317 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:00.351316 countAccounts Found 2 account(s) on startup
+=============================================Application Started at 2021-04-29 05:10:36.7060722021-04-29 05:10:36.722071 mainFile Data found
+2021-04-29 05:10:36.914118 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:36.930116 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:36.994108 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:37.010115 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:37.034105 countAccounts Found 2 account(s) on startup
+2021-04-29 05:10:42.605117 deleteAccount Account deleted: 1
+2021-04-29 05:10:42.613136 refreshWindow Window has been refreshed.
+2021-04-29 05:10:42.821115 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:42.829115 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:42.853113 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:42.869093 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:42.885110 countAccounts Found 1 account(s) on startup
+2021-04-29 05:10:45.951659 deleteAccount Account deleted: 2
+2021-04-29 05:10:45.967660 refreshWindow Window has been refreshed.
+2021-04-29 05:10:46.151624 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:46.159620 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:46.183618 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:46.200425 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:49.367110 refreshWindow Window has been refreshed.
+2021-04-29 05:10:49.559092 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:49.575108 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:49.599088 countAccounts Found 0 account(s) on startup
+2021-04-29 05:10:49.615083 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-04-29 05:21:39.4516792021-04-29 05:21:39.465671 mainFile Data found
+2021-04-29 05:21:40.496811 countAccounts Found 0 account(s) on startup
+2021-04-29 05:21:40.511808 countAccounts Found 0 account(s) on startup
+2021-04-29 05:21:40.593694 countAccounts Found 0 account(s) on startup
+2021-04-29 05:21:40.608256 countAccounts Found 0 account(s) on startup
+2021-04-29 05:21:59.538693 encrypt[al] Encrypt password request.
+2021-04-29 05:21:59.551160 countAccounts Found 0 account(s) on startup
+2021-04-29 05:21:59.564153 addEntry New account added: lkjhgfd
+2021-04-29 05:21:59.602130 refreshWindow Window has been refreshed.
+2021-04-29 05:21:59.823005 countAccounts Found 1 account(s) on startup
+2021-04-29 05:21:59.836002 countAccounts Found 1 account(s) on startup
+2021-04-29 05:21:59.862982 countAccounts Found 1 account(s) on startup
+2021-04-29 05:21:59.877972 countAccounts Found 1 account(s) on startup
+2021-04-29 05:21:59.889988 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:19.253098 unlockSession This session has been unlocked.
+2021-04-29 05:22:19.266105 refreshWindow Window has been refreshed.
+2021-04-29 05:22:19.480987 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:19.497000 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:19.522966 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:19.538422 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:19.551968 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:22.437846 lockSession This session has been locked.
+2021-04-29 05:22:22.456830 refreshWindow Window has been refreshed.
+2021-04-29 05:22:22.778649 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:22.793637 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:22.823620 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:22.838612 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:22.856601 countAccounts Found 1 account(s) on startup
+=============================================Application Started at 2021-04-29 05:22:28.7743912021-04-29 05:22:28.788384 mainFile Data found
+2021-04-29 05:22:28.987264 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:28.999281 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:29.029263 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:29.043255 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:29.056249 countAccounts Found 1 account(s) on startup
+2021-04-29 05:22:34.646417 deleteAccount Account deleted: 1
+2021-04-29 05:22:34.658353 refreshWindow Window has been refreshed.
+2021-04-29 05:22:34.877844 countAccounts Found 0 account(s) on startup
+2021-04-29 05:22:34.892839 countAccounts Found 0 account(s) on startup
+2021-04-29 05:22:34.919841 countAccounts Found 0 account(s) on startup
+2021-04-29 05:22:34.933630 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-04-29 05:36:19.8914882021-04-29 05:36:19.907109 mainFile Data found
+2021-04-29 05:36:20.188343 countAccounts Found 0 account(s) on startup
+2021-04-29 05:36:20.203968 countAccounts Found 0 account(s) on startup
+2021-04-29 05:36:20.219588 countAccounts Found 0 account(s) on startup
+2021-04-29 05:36:20.235235 countAccounts Found 0 account(s) on startup
+2021-04-29 05:36:32.312506 encrypt[al] Encrypt password request.
+2021-04-29 05:36:32.312506 countAccounts Found 0 account(s) on startup
+2021-04-29 05:36:32.328128 addEntry New account added: knn knkn
+2021-04-29 05:36:32.374996 refreshWindow Window has been refreshed.
+2021-04-29 05:36:32.593734 countAccounts Found 1 account(s) on startup
+2021-04-29 05:36:32.609355 countAccounts Found 1 account(s) on startup
+2021-04-29 05:36:32.640608 countAccounts Found 1 account(s) on startup
+2021-04-29 05:36:32.640608 countAccounts Found 1 account(s) on startup
+2021-04-29 05:36:32.656225 countAccounts Found 1 account(s) on startup
+2021-04-29 05:36:40.858782 checkPassword Bad Global
+2021-04-29 05:36:42.264934 checkPassword Bad Global
+2021-04-29 05:36:42.655556 checkPassword Bad Global
+2021-04-29 05:36:42.796152 checkPassword Bad Global
+2021-04-29 05:36:42.968013 checkPassword Bad Global
+2021-04-29 05:36:43.124250 checkPassword Bad Global
+2021-04-29 05:36:43.296113 checkPassword Bad Global
+2021-04-29 05:36:43.467977 checkPassword Bad Global
+2021-04-29 05:36:43.624216 checkPassword Bad Global
+2021-04-29 05:36:43.796100 checkPassword Bad Global
+2021-04-29 05:36:43.952320 checkPassword Bad Global
+2021-04-29 05:36:44.124181 checkPassword Bad Global
+2021-04-29 05:36:44.280420 checkPassword Bad Global
+2021-04-29 05:36:44.452284 checkPassword Bad Global
+2021-04-29 05:36:44.608521 checkPassword Bad Global
+2021-04-29 05:36:44.811640 checkPassword Bad Global
+2021-04-29 05:36:44.967873 checkPassword Bad Global
+2021-04-29 05:36:51.045583 decrypt[al] Decrypt password request.
+2021-04-29 05:36:54.670396 decrypt[al] Decrypt password request.
+2021-04-29 05:37:01.888660 deleteAccount Account deleted: 1
+2021-04-29 05:37:01.888660 refreshWindow Window has been refreshed.
+2021-04-29 05:37:02.107378 countAccounts Found 0 account(s) on startup
+2021-04-29 05:37:02.122999 countAccounts Found 0 account(s) on startup
+2021-04-29 05:37:02.154249 countAccounts Found 0 account(s) on startup
+2021-04-29 05:37:02.169871 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-04-29 05:46:56.8301592021-04-29 05:46:56.845782 mainFile Data found
+2021-04-29 05:46:57.142640 countAccounts Found 0 account(s) on startup
+2021-04-29 05:46:57.158261 countAccounts Found 0 account(s) on startup
+2021-04-29 05:46:57.189509 countAccounts Found 0 account(s) on startup
+2021-04-29 05:46:57.205134 countAccounts Found 0 account(s) on startup
+2021-04-29 05:48:15.724912 encrypt[al] Encrypt password request.
+2021-04-29 05:48:15.737285 countAccounts Found 0 account(s) on startup
+2021-04-29 05:48:15.751305 addEntry New account added: Facebook
+2021-04-29 05:48:15.786270 refreshWindow Window has been refreshed.
+2021-04-29 05:48:16.024127 countAccounts Found 1 account(s) on startup
+2021-04-29 05:48:16.037121 countAccounts Found 1 account(s) on startup
+2021-04-29 05:48:16.064125 countAccounts Found 1 account(s) on startup
+2021-04-29 05:48:16.078100 countAccounts Found 1 account(s) on startup
+2021-04-29 05:48:16.092090 countAccounts Found 1 account(s) on startup
+2021-04-29 05:49:47.679147 encrypt[al] Encrypt password request.
+2021-04-29 05:49:47.694795 countAccounts Found 1 account(s) on startup
+2021-04-29 05:49:47.710419 addEntry New account added: Youtube
+2021-04-29 05:49:47.741643 refreshWindow Window has been refreshed.
+2021-04-29 05:49:47.976023 countAccounts Found 2 account(s) on startup
+2021-04-29 05:49:47.991647 countAccounts Found 2 account(s) on startup
+2021-04-29 05:49:48.007271 countAccounts Found 2 account(s) on startup
+2021-04-29 05:49:48.022873 countAccounts Found 2 account(s) on startup
+2021-04-29 05:49:48.038502 countAccounts Found 2 account(s) on startup
+2021-04-29 05:50:26.435251 decrypt[al] Decrypt password request.
+2021-04-29 05:51:35.794787 deleteAccount Account deleted: 1
+2021-04-29 05:51:35.794787 refreshWindow Window has been refreshed.
+2021-04-29 05:51:36.029141 countAccounts Found 1 account(s) on startup
+2021-04-29 05:51:36.044771 countAccounts Found 1 account(s) on startup
+2021-04-29 05:51:36.060411 countAccounts Found 1 account(s) on startup
+2021-04-29 05:51:36.076017 countAccounts Found 1 account(s) on startup
+2021-04-29 05:51:36.091642 countAccounts Found 1 account(s) on startup
+2021-04-29 05:52:13.259466 deleteAll Deleted all accounts.
+2021-04-29 05:52:13.271654 refreshWindow Window has been refreshed.
+2021-04-29 05:52:13.481396 countAccounts No accounts found on startup
+2021-04-29 05:52:13.494337 countAccounts No accounts found on startup
+2021-04-29 05:52:13.520840 countAccounts No accounts found on startup
+2021-04-29 05:52:13.534826 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 05:53:21.8614992021-04-29 05:53:21.877124 mainFile Data found
+2021-04-29 05:53:22.142730 countAccounts No accounts found on startup
+2021-04-29 05:53:22.158352 countAccounts No accounts found on startup
+2021-04-29 05:53:22.189598 countAccounts No accounts found on startup
+2021-04-29 05:53:22.205224 countAccounts No accounts found on startup
+2021-04-29 05:53:45.369253 encrypt[al] Encrypt password request.
+2021-04-29 05:53:45.384898 countAccounts No accounts found on startup
+2021-04-29 05:53:45.400523 addEntry New account added: Facebook
+2021-04-29 05:53:45.447371 refreshWindow Window has been refreshed.
+2021-04-29 05:53:45.697354 countAccounts Found 1 account(s) on startup
+2021-04-29 05:53:45.712978 countAccounts Found 1 account(s) on startup
+2021-04-29 05:53:45.728624 countAccounts Found 1 account(s) on startup
+2021-04-29 05:53:45.744225 countAccounts Found 1 account(s) on startup
+2021-04-29 05:53:45.759872 countAccounts Found 1 account(s) on startup
+2021-04-29 05:54:06.357866 encrypt[al] Encrypt password request.
+2021-04-29 05:54:06.373490 countAccounts Found 1 account(s) on startup
+2021-04-29 05:54:06.389114 addEntry New account added: Youtube
+2021-04-29 05:54:06.420361 refreshWindow Window has been refreshed.
+2021-04-29 05:54:06.654721 countAccounts Found 2 account(s) on startup
+2021-04-29 05:54:06.670348 countAccounts Found 2 account(s) on startup
+2021-04-29 05:54:06.701591 countAccounts Found 2 account(s) on startup
+2021-04-29 05:54:06.717236 countAccounts Found 2 account(s) on startup
+2021-04-29 05:54:06.732845 countAccounts Found 2 account(s) on startup
+2021-04-29 05:54:29.428082 deleteAll Deleted all accounts.
+2021-04-29 05:54:29.443702 refreshWindow Window has been refreshed.
+2021-04-29 05:54:29.678060 countAccounts No accounts found on startup
+2021-04-29 05:54:29.678060 countAccounts No accounts found on startup
+2021-04-29 05:54:29.709310 countAccounts No accounts found on startup
+2021-04-29 05:54:29.724932 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 06:00:01.4505522021-04-29 06:00:01.466173 mainFile Data found
+2021-04-29 06:00:01.669284 countAccounts No accounts found on startup
+2021-04-29 06:00:01.716156 countAccounts No accounts found on startup
+2021-04-29 06:00:01.747403 countAccounts No accounts found on startup
+2021-04-29 06:00:01.763027 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 13:56:39.4594642021-04-29 13:56:39.459464 mainFile Data found
+2021-04-29 13:56:39.803193 countAccounts No accounts found on startup
+2021-04-29 13:56:39.818814 countAccounts No accounts found on startup
+2021-04-29 13:56:39.850062 countAccounts No accounts found on startup
+2021-04-29 13:56:39.865706 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 14:03:14.2981682021-04-29 14:03:14.313790 mainFile Data found
+2021-04-29 14:03:14.532525 countAccounts No accounts found on startup
+2021-04-29 14:03:14.548150 countAccounts No accounts found on startup
+2021-04-29 14:03:14.595022 countAccounts No accounts found on startup
+2021-04-29 14:03:14.610646 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 14:05:38.4556682021-04-29 14:05:38.471290 mainFile Data found
+2021-04-29 14:05:38.690028 countAccounts No accounts found on startup
+2021-04-29 14:05:38.705652 countAccounts No accounts found on startup
+2021-04-29 14:05:38.752520 countAccounts No accounts found on startup
+2021-04-29 14:05:38.768143 countAccounts No accounts found on startup
+2021-04-29 14:05:44.814600 refreshWindow Window has been refreshed.
+2021-04-29 14:05:45.017726 countAccounts No accounts found on startup
+2021-04-29 14:05:45.033334 countAccounts No accounts found on startup
+2021-04-29 14:05:45.064604 countAccounts No accounts found on startup
+2021-04-29 14:05:45.080227 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 14:09:47.1646942021-04-29 14:09:47.181682 mainFile Data found
+2021-04-29 14:09:47.444534 countAccounts No accounts found on startup
+2021-04-29 14:09:47.464522 countAccounts No accounts found on startup
+2021-04-29 14:09:47.504499 countAccounts No accounts found on startup
+2021-04-29 14:09:47.519490 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 14:43:40.8475442021-04-29 14:43:40.892518 mainFile Data found
+2021-04-29 14:43:41.589370 countAccounts No accounts found on startup
+2021-04-29 14:43:41.621356 countAccounts No accounts found on startup
+2021-04-29 14:43:41.715299 countAccounts No accounts found on startup
+2021-04-29 14:43:41.761273 countAccounts No accounts found on startup
+=============================================Application Started at 2021-04-29 14:50:06.8971872021-04-29 14:50:06.974627 mainFile Data found
+2021-04-29 14:50:07.857383 countAccounts No accounts found on startup
+2021-04-29 14:50:07.887187 countAccounts No accounts found on startup
+2021-04-29 14:50:07.967160 countAccounts No accounts found on startup
+2021-04-29 14:50:07.997359 countAccounts No accounts found on startup
+2021-04-29 14:50:48.472285 encrypt[al] Encrypt password request.
+2021-04-29 14:50:48.497078 countAccounts No accounts found on startup
+2021-04-29 14:50:48.537234 addEntry New account added: Facebook
+2021-04-29 14:50:48.617009 refreshWindow Window has been refreshed.
+2021-04-29 14:50:49.567191 countAccounts Found 1 account(s) on startup
+2021-04-29 14:50:49.622279 countAccounts Found 1 account(s) on startup
+2021-04-29 14:50:49.702211 countAccounts Found 1 account(s) on startup
+2021-04-29 14:50:49.737205 countAccounts Found 1 account(s) on startup
+2021-04-29 14:50:49.771986 countAccounts Found 1 account(s) on startup
+2021-04-29 14:51:18.892291 decrypt[al] Decrypt password request.
+2021-04-29 14:51:26.211990 decrypt[al] Decrypt password request.
+2021-04-29 14:51:39.559142 deleteAccount Account deleted: 1
+2021-04-29 14:51:39.597685 refreshWindow Window has been refreshed.
+2021-04-29 14:51:40.672092 countAccounts Found 0 account(s) on startup
+2021-04-29 14:51:40.707704 countAccounts Found 0 account(s) on startup
+2021-04-29 14:51:40.772263 countAccounts Found 0 account(s) on startup
+2021-04-29 14:51:40.817394 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-04-30 06:36:20.6686442021-04-30 06:36:20.671221 mainFile Data found
+2021-04-30 06:36:22.108259 countAccounts Found 0 account(s) on startup
+2021-04-30 06:36:22.110260 countAccounts Found 0 account(s) on startup
+2021-04-30 06:36:22.208045 countAccounts Found 0 account(s) on startup
+2021-04-30 06:36:22.212534 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-06-06 12:08:33.2237012021-06-06 12:08:33.225699 mainFile Data found
+2021-06-06 12:08:33.554422 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:33.555417 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:33.572058 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:33.574058 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:47.962690 refreshWindow Window has been refreshed.
+2021-06-06 12:08:48.093703 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:48.093703 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:48.103703 countAccounts Found 0 account(s) on startup
+2021-06-06 12:08:48.105705 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-06-06 12:10:41.5723822021-06-06 12:10:41.573380 mainFile Data found
+2021-06-06 12:10:41.708394 countAccounts Found 0 account(s) on startup
+2021-06-06 12:10:41.709393 countAccounts Found 0 account(s) on startup
+2021-06-06 12:10:41.728393 countAccounts Found 0 account(s) on startup
+2021-06-06 12:10:41.730393 countAccounts Found 0 account(s) on startup
+=============================================Application Started at 2021-06-06 12:13:06.2068932021-06-06 12:13:06.208893 mainFile Data found
+2021-06-06 12:13:06.398412 countAccounts Found 0 account(s) on startup
+2021-06-06 12:13:06.399412 countAccounts Found 0 account(s) on startup
+2021-06-06 12:13:06.424414 countAccounts Found 0 account(s) on startup
+2021-06-06 12:13:06.428418 countAccounts Found 0 account(s) on startup
